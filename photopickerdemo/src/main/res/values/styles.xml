@@ -15,8 +15,5 @@
       <item name="colorPrimaryDark">#62b1e6</item>
     </style>
 
-    <style name="__picker_ic_photo_black_48dp_app">
-        <item name="android:src">@drawable/bg_item_photo</item>
-    </style>
 
 </resources>
